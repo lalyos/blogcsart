@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  blog:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-27T10:57:28.854344357Z"
+    description: A Helm chart for Kubernetes
+    digest: 5c54cf5588f478542dacfe7de308b4d8885410c87cfbeb57f30273c8ba65de3f
+    name: blog
+    type: application
+    urls:
+    - blog-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-27T10:57:28.855034923Z"
+    description: A Helm chart for Kubernetes
+    digest: c8014d45db620261766ebccff25b3696f9e074b307df83ff24325c71def08544
+    name: blog
+    type: application
+    urls:
+    - blog-repo/blog-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-10-27T10:57:28.845973303Z"
