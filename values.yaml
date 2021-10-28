@@ -10,10 +10,10 @@ blog:
   body: please use blog.title blog.color and blog.body helm values ...
 
 image:
-  repository: nginx
+  repository: lalyos/12factor
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: ""
+  tag: "latest"
 
 imagePullSecrets: []
 nameOverride: ""
